@@ -1,0 +1,1 @@
+#include "BadSettingsFile.h"
